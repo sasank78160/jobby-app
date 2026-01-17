@@ -1,6 +1,11 @@
+for prime users
 id :rahul 
 password:rahul@2021 
 
+for non prime users:
+ username: raja
+ password: raja@2021
+ 
 live:-
 ### Design Files
 
